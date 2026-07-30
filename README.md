@@ -6,8 +6,8 @@ Software designed for better organization.
 
 ## About
 
-Actlogicom, LLC is a software publisher building focused, privacy-first
-productivity tools. Our first product is **Agenote**.
+Actlogicom, LLC builds focused, privacy-first software tools. Our first
+product is **Agenote**.
 
 ## Agenote
 
