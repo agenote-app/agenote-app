@@ -2,12 +2,21 @@
 
 # Actlogicom, LLC
 
-Software designed for better organization.
+Practical solutions for operations, logistics, and technology.
 
 ## About
 
-Actlogicom, LLC builds focused, privacy-first software tools. Our first
-product is **Agenote**.
+Actlogicom, LLC is a diversified company focused on business operations,
+logistics, and technology — helping individuals and organizations run more
+efficiently.
+
+Our name reflects the areas that shaped our foundation: activities, logistics,
+and commerce. We apply that experience to streamline workflows, manage
+operations, and build products and services that improve how organizations
+function day to day.
+
+Our technology portfolio includes **Agenote**, a privacy-first productivity
+application for iPhone, iPad, and Mac.
 
 ## Agenote
 
