@@ -20,26 +20,42 @@ application for iPhone, iPad, and Mac.
 
 ## Agenote
 
-Agenote is a daily agenda and notes app for iPhone, iPad, and Mac that brings your Calendar, Reminders, and notes together in one place — and connects that agenda directly to your Obsidian vault, a Markdown folder, or Apple Notes. There is no backend server: your data stays on your devices and syncs only through services you already control, like iCloud or Obsidian's own sync.
+Agenote brings your calendar, reminders, tasks, ideas, and notes together in one daily workspace.
+
+Your agenda can connect directly to an Obsidian vault or a standard Markdown folder. Notes and connected ideas can also be shared with Apple Notes while preserving their structure, images, and links.
+
+Agenote has no proprietary backend server. Your information stays on your devices and syncs only through storage and services you choose, such as iCloud, Obsidian Sync, or another file-sync provider.
 
 ### Features
-- Daily agenda combining Calendar events and Reminders in one view
-- A dedicated Notes library, separate from your daily agenda, with tags and [[wikilink]] connections between notes and ideas
-- Two-way connection to an Obsidian vault or a Markdown folder
-- Quick capture for ideas, events, tasks, and reminders, with voice dictation
-- Inline images in notes, added from your photo library or directly from the camera
-- Checklists you can tap right inside your notes, with optional due dates linked to Reminders
-- Send any note or a summary of connected ideas to Apple Notes, with images and links preserved
-- Weekly view and a Home Screen widget for at-a-glance planning
-- Light and dark themes, with several accent-color and layout options
-- No accounts, no ads, no data collection
-  
-### Platforms
 
-Agenote is a universal app for **iPhone**, **iPad**, and **Mac**.
+- A unified daily agenda with Calendar events, Reminders, tasks, and ideas
+- A dedicated Notes library with tags and `[[wikilink]]` connections
+- Integration with an Obsidian vault or a standard Markdown folder
+- Quick capture for ideas, tasks, events, and reminders
+- Voice dictation
+- Inline images from your photo library or camera
+- Interactive checklists inside ideas and notes
+- Optional checklist due dates connected to Apple Reminders
+- Sharing to Apple Notes with images, links, and formatting preserved
+- Summaries generated from connected ideas
+- Weekly planning view
+- Home Screen widgets
+- Light and dark themes with multiple accent colors and visual styles
+- No Agenote account required
+- No advertising
+- No proprietary analytics or data-collection backend
+
+## Platforms
+
+Agenote is available for iPhone, iPad, and Mac.
+
+## Privacy
+
+Agenote is designed around local ownership and user-controlled storage. The app does not require an Agenote account or upload your notes to an Actlogicom server.
+
+For additional details, review our [Privacy Policy](https://www.actlogicom.com/privacy-policy.html).
 
 ## Support
-
 - [Privacy Policy](https://www.actlogicom.com/privacy-policy.html)
 - [Terms of Service](https://www.actlogicom.com/terms-of-service.html)
 - Contact: [contact@actlogicom.com](mailto:contact@actlogicom.com)
